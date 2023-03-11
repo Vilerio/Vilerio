@@ -1,12 +1,11 @@
 
   
-
 ### <div align="center">Je suis moi-même, passionné des mêmes choses que moi.</div>  
   
 
 <br/>  
 
-
+- 🔭 Je travaille actuellement sur [Nempty](https://github.com/Nempty) et [Dyme](https://dyme.tk)
 
 
 <div align="center">  
