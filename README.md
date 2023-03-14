@@ -6,7 +6,7 @@
 <br/>  
 
 - 🔭 I am currently working on [Nempty](https://github.com/Nempty) and [Dyme](https://dyme.tk)
-- 🇫🇷 I'm French, but I prefer to speak 🛢️
+- 🇫🇷 I'm French, but I prefer to speak in hexadecimal
 
 <br/>
 
