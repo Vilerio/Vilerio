@@ -1,6 +1,6 @@
 
   
-### <div align="center">Je suis moi-même, passionné des mêmes choses que moi.</div>  
+### <div align="center">I am myself, passionate about the same things as me</div>  
   
 
 <br/>  
