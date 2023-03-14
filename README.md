@@ -5,7 +5,8 @@
 
 <br/>  
 
-- 🔭 Je travaille actuellement sur [Nempty](https://github.com/Nempty) et [Dyme](https://dyme.tk)
+- 🔭 I am currently working on [Nempty](https://github.com/Nempty) and [Dyme](https://dyme.tk)
+- 
 
 <br/>
 
