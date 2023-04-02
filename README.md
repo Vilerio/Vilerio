@@ -29,5 +29,5 @@
 <br/> <br/>
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vilerio&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilerio&theme=tokyonight" alt="Top Langs">
 </p>
