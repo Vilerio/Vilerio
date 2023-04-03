@@ -31,3 +31,4 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilerio&theme=tokyonight" alt="Top Langs">
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilerio&exclude_repo=Wings-install-script-for-OpenVZ)](https://github.com/anuraghazra/github-readme-stats)
