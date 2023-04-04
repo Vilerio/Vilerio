@@ -29,6 +29,6 @@
 <br/> <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilerio&layout=compact&theme=tokyonight&exclude_repo=Wings-install-script-for-OpenVZ&exclude_repo=epsilon" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilerio&layout=compact&theme=tokyonight&exclude_repo=Wings-install-script-for-OpenVZ" alt="Top Langs">
 </p>
 
