@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vilerio" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=vilerio&count_private=true&show_icons=true" alt="Stats">
 </p>
