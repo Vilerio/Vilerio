@@ -21,7 +21,7 @@
 <a href="https://www.zabbix.com/" target="_blank"><img style="margin: 10px" src="https://softwarereviews.s3.amazonaws.com/production/favicons/offerings/4317/original/Zabbix_icon.png" alt="Zabbix" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.debian.org/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3AOpenlogo-debianV2.svg&psig=AOvVaw1AY6K_7fLFQ8_ui7-QeEXm&ust=1681633934097000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCbttu8q_4CFQAAAAAdAAAAABAE" alt="Debian" height="50" /></a>  
+<a href="https://www.debian.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/967px-Openlogo-debianV2.svg.png" alt="Debian" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" /></a>  
