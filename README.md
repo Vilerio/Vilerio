@@ -9,7 +9,10 @@
 - 🇫🇷 I'm French, but I prefer to speak in hexadecimal
 
 <br/>
-![](https://komarev.com/ghpvc/?username=vilerio)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=vilerio&style=flat" alt="Views">
+</p>
+
 <h3 align="left">Languages and tools :</h3>
 
 <div align="center">  
