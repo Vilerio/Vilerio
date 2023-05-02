@@ -33,7 +33,7 @@
 <br/> <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilerio&layout=compact&theme=tokyonight&exclude=hjs-cpp" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilerio&layout=compact&theme=tokyonight&exlude=Simple-Rsa-CPP" alt="Top Langs">
 </p>
 
 <p align="center">
