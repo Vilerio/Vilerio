@@ -33,9 +33,9 @@
 <br/> <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilerio&layout=compact&theme=tokyonight&exclude_repo=hjs-cpp,Wings-install-script-for-OpenVZ" alt="Top Langs">
+<img src="https://stats.github.thff.fr/api/top-langs/?username=vilerio&layout=compact&theme=tokyonight&exclude_repo=hjs-cpp,Wings-install-script-for-OpenVZ" alt="Top Langs">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vilerio&count_private=true&show_icons=true&theme=tokyonight" alt="Stats">
+<img src="https://stats.github.thff.fr/api?username=vilerio&count_private=true&show_icons=true&theme=tokyonight" alt="Stats">
 </p>
