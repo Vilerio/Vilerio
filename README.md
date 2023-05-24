@@ -33,13 +33,13 @@
 <br/> <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilerio&layout=compact&theme=radical&exclude_repo=hjs-cpp,Wings-install-script-for-OpenVZ,Scolengo-api-Mock" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilerio&layout=compact&theme=dark&exclude_repo=hjs-cpp,Wings-install-script-for-OpenVZ,Scolengo-api-Mock" alt="Top Langs">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vilerio&theme=radical" alt="Time">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vilerio&theme=dark" alt="Time">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vilerio&count_private=true&show_icons=true&theme=radical" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=vilerio&count_private=true&show_icons=true&theme=dark" alt="Stats">
 </p>
