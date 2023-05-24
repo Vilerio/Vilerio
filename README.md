@@ -37,5 +37,9 @@
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vilerio&layout=compact&theme=tokyonight" alt="Time">
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vilerio&count_private=true&show_icons=true&theme=tokyonight" alt="Stats">
 </p>
