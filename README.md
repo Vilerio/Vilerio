@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vilerio&theme=github_dark" alt="Time">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vilerio&theme=prussian" alt="Time">
 </p>
 
 <p align="center">
