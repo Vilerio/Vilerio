@@ -10,7 +10,7 @@
 
 <br/>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vilerio&style=flat" alt="Views">
+<img src="https://komarev.com/ghpvc/?username=vilerio&style=for-the-badge" alt="Views">
 </p>
 
 <h3 align="left">Languages and tools :</h3>
