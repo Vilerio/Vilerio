@@ -39,7 +39,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vilerio&theme=github_dark" alt="Time">
 </p>
-
+<! --
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vilerio&count_private=true&show_icons=true&theme=github_dark" alt="Stats">
 </p>
+-->
