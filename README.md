@@ -20,7 +20,6 @@
 <h3 align="left">Languages and tools :</h3>
 
 <div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>    
 <a href="https://elastic.co/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" alt="Elastic" height="50" /></a> 
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
@@ -34,8 +33,7 @@
 <a href="https://www.debian.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/967px-Openlogo-debianV2.svg.png" alt="Debian" height="50" /></a>  
 <a href="https://www.proxmox.com" target="_blank"><img style="margin: 10px" src="https://christophe.cucciardi.fr/wp-content/uploads/2023/08/proxmox_logo.png" alt="Proxmox" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+
 
 <br/> <br/>
 
