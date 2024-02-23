@@ -36,11 +36,7 @@
 
 
 <br/> <br/>
-<!--
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilerio&layout=compact&theme=github_dark&exclude_repo=hjs-cpp,Wings-install-script-for-OpenVZ,Scolengo-api-Mock" alt="Top Langs">
-</p>
--->
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vilerio&theme=github_dark&layout=compact" alt="Time">
