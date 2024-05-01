@@ -17,7 +17,7 @@
 <img src="https://wakatime.com/badge/user/e96d73c6-5523-4913-8e38-6579f5d391cf.svg?style=for-the-badge" alt="waka">
 </p>
 
-
+<!--
 <h3 align="left">Languages and tools :</h3>
 
 <div align="center">  
@@ -33,7 +33,7 @@
 <a href="https://www.debian.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/967px-Openlogo-debianV2.svg.png" alt="Debian" height="50" /></a>  
 <a href="https://www.proxmox.com" target="_blank"><img style="margin: 10px" src="https://christophe.cucciardi.fr/wp-content/uploads/2023/08/proxmox_logo.png" alt="Proxmox" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-
+-->
 
 <br/> <br/>
 
