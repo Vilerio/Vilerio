@@ -5,7 +5,7 @@
 
 <br/>  
 
-- 🔭 I am currently working on [Papillon](https://getpapillon.xyz)
+<!--- 🔭 I am currently working on [Papillon](https://getpapillon.xyz)-->
 - 🇫🇷 I'm French, but I prefer to speak in hexadecimal
 
 <br/>
