@@ -13,7 +13,9 @@
 <img src="https://komarev.com/ghpvc/?username=vilerio&style=for-the-badge" alt="Views">
 </p>
 
+
 <p align="center">
+  <a>Coding time since may 23 2023</a>
 <img src="https://wakatime.com/badge/user/e96d73c6-5523-4913-8e38-6579f5d391cf.svg?style=for-the-badge" alt="waka">
 </p>
 
