@@ -8,7 +8,7 @@
 <!--- 🔭 I am currently working on [Papillon](https://getpapillon.xyz)-->
 - 🇫🇷 I'm French, but I prefer to speak in hexadecimal
 
-<br/>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vilerio&style=for-the-badge" alt="Views">
 </p>
